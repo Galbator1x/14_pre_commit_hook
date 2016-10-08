@@ -8,7 +8,3 @@ Usage
 -----
 
 - Put 'pre-commit' into ./git/hooks.
-
-```
-~$ python3 coursera.py
-```
