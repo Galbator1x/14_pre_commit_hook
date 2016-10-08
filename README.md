@@ -7,4 +7,4 @@ will not be executed.
 Usage
 -----
 
-- Put 'pre-commit' into ./git/hooks.
+- Put 'pre-commit' into ./git/hooks/
